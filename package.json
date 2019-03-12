@@ -1,0 +1,28 @@
+{
+  "name": "React-Cardio",
+  "version": "1.0.0",
+  "description": "Creating React reusable React Componets",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanSwan/React-Cardio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanSwan/React-Cardio/issues"
+  },
+  "homepage": "https://github.com/SeanSwan/React-Cardio#readme",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "devDependencies": {}
+}
